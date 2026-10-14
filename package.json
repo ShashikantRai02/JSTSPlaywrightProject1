@@ -1,0 +1,23 @@
+{
+  "name": "jstsplaywrightproject1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ShashikantRai02/JSTSPlaywrightProject1#readme",
+  "bugs": {
+    "url": "https://github.com/ShashikantRai02/JSTSPlaywrightProject1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashikantRai02/JSTSPlaywrightProject1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "Chapter6-If-else-if-Condition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
