@@ -14,10 +14,12 @@
   "author": "",
   "type": "commonjs",
   "main": "Chapter6-If-else-if-Condition.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
   }
 }
