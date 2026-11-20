@@ -1,0 +1,16 @@
+enum TestStatus {
+  Pass = "PASS",
+  Fail = "FAIL",
+  Skip = "SKIP",
+  Pending = "PENDING",
+  Blocked = "BLOCKED",
+}
+console.log(TestStatus.Pass);
+console.log(TestStatus.Pending);
+console.log(TestStatus.Blocked);
+/* 
+PASS
+PENDING
+BLOCKED
+
+*/
